@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://StreamingDataPlatform.github.io/blog</id>
     <title>Dell EMC Streaming Data Platform Blog</title>
-    <updated>2015-10-25T23:29:00.000Z</updated>
+    <updated>2021-03-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://StreamingDataPlatform.github.io/blog"/>
     <subtitle>Dell EMC Streaming Data Platform Blog</subtitle>
     <icon>https://StreamingDataPlatform.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>Welcome</id>
+        <link href="https://StreamingDataPlatform.github.io/docs/blog/2021/03/22/welcome"/>
+        <updated>2021-03-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our new online documentation for Dell EMC Streaming Data Platform is now available!]]></summary>
+    </entry>
 </feed>

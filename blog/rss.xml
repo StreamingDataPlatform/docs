@@ -4,8 +4,15 @@
         <title>Dell EMC Streaming Data Platform Blog</title>
         <link>https://StreamingDataPlatform.github.io/blog</link>
         <description>Dell EMC Streaming Data Platform Blog</description>
-        <lastBuildDate>Sun, 25 Oct 2015 23:29:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://StreamingDataPlatform.github.io/docs/blog/2021/03/22/welcome</link>
+            <guid>Welcome</guid>
+            <pubDate>Mon, 22 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Our new online documentation for Dell EMC Streaming Data Platform is now available!]]></description>
+        </item>
     </channel>
 </rss>
